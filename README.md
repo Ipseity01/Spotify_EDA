@@ -1,5 +1,4 @@
 # Spotify_EDA
-Explore the 2024 most-streamed Spotify tracks through this data analysis project. The Jupyter notebook includes data cleaning, visualization, and insights into top artists, songs, and platform performance.
 This project analyzes Spotify's most-streamed songs in 2024, alongside cross-platform performance metrics (YouTube, TikTok, Pandora, etc.). The goal is to uncover trends in music consumption, identify top-performing artists and tracks, and compare streaming platforms. Key insights include:
 - **Top 10 most-streamed songs** (e.g., "Blinding Lights" by The Weeknd, "Shape of You" by Ed Sheeran).
 - **Yearly streaming trends** (notable growth from 2015 onward, with anomalies in future years due to data errors).
